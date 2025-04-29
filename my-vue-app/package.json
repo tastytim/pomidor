@@ -1,8 +1,8 @@
 {
-  "name": "my-vue-app",
-  "productName": "my-vue-app",
+  "name": "pomidor",
+  "productName": "pomidor",
   "version": "1.0.0",
-  "description": "My Electron application description",
+  "description": "pomidor",
   "main": ".vite/build/main.js",
   "scripts": {
     "start": "electron-forge start",

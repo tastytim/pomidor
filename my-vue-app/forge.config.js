@@ -3,8 +3,10 @@ const { FuseV1Options, FuseVersion } = require('@electron/fuses');
 
 module.exports = {
   packagerConfig: {
+    icon:'src/assets/pomidor.icns',
     asar: true,
   },
+
   rebuildConfig: {},
   makers: [
     {
